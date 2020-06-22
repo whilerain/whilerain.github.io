@@ -1,7 +1,7 @@
-Updated at 2020/05/30
+Updated at 2020/06/22
 
 # Privacy policy
-This Privacy Policy governs the manner in which Whilerain Studio Inc.(“WHILERAIN”) collects, uses, maintains and discloses information collected from users (each, a “User”) of the website [xunqun.github.io/whilerain/](https://xunqun.github.io/whilerain/) (“Site”) or our [mobile applications](https://play.google.com/store/apps/dev?id=7897057169203492320) (“Apps”). This privacy policy applies to the Site, Apps, and all products and services offered by WHILERAIN.
+This Privacy Policy governs the manner in which Whilerain Studio Inc.(“WHILERAIN”) collects, uses, maintains and discloses information collected from users (each, a “User”) of the website [https://whilerain.github.io](https://whilerain.github.io) (“Site”) or our [mobile applications](https://play.google.com/store/apps/dev?id=7897057169203492320) (“Apps”). This privacy policy applies to the Site, Apps, and all products and services offered by WHILERAIN.
 
 ## Non-personal identification information
 
