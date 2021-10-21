@@ -1,6 +1,6 @@
-## Welcome to Whilerain Studio
+## Welcome to Whiles App
 
-Whilerain Studio is a company based in Taiwan that aims to create innovative Apps.
+Whiles App is a company based in Taiwan that aims to create innovative Apps.
 
 ### ☀ Navier HUD 
 
